@@ -13,4 +13,10 @@ Human friendly shape
 
 From the description a couple push buttons with LEDs for A and B will cover visual feedback and the need for A and B.
 To get directional input to change lanes and to get directional input of at least two directions I'll have an up and down button to change the lane that we're in.
-And lastly to have an analog sensor and directional input for tilting I will put in a tilt sensor, this will hopefully make the tilting mechanic of the game farely intuitive since you will be actually tilting the controller to do it.
+
+I could add 2 more buttons for left and right tilting in the air (as it was done in the original ExciteBike). However this means I am missing the analog input and there wouldn't really be all that much design put into this submission as I would mostly just be copying the circuitry of the original.
+
+How can I add more here? Tilt sensor? Gyro? Pressure sensor? Flex sensor?
+Tilt sensor would likely be the best for game feel and doesn't add too much unnecessary complexity.
+
+So lastly to have an analog sensor and directional input for tilting I will put in a tilt sensor, this will hopefully make the tilting mechanic of the game fairly intuitive since you will be actually tilting the controller to do it.
