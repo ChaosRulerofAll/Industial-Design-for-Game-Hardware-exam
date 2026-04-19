@@ -1,0 +1,16 @@
+Needs (for gameplay):
+A button
+B button
+Directional input (Change lanes)
+Directional input (tilt in air)
+
+Needs (for marks):
+directional input (minimum 2 directions)
+Visual feedback (likely LEDs)
+Analog Sensor
+Human friendly shape
+
+
+From the description a couple push buttons with LEDs for A and B will cover visual feedback and the need for A and B.
+To get directional input to change lanes and to get directional input of at least two directions I'll have an up and down button to change the lane that we're in.
+And lastly to have an analog sensor and directional input for tilting I will put in a tilt sensor, this will hopefully make the tilting mechanic of the game farely intuitive since you will be actually tilting the controller to do it.
